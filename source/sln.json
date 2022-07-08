@@ -1,0 +1,13 @@
+{
+    "solution": "BuildCache",
+    "projects": [
+      {
+        "template": "classlib",
+        "name": "Core",
+        "dependencies": [
+          "Microsoft.EntityFrameworkCore",
+          "Newtonsoft.Json"
+        ]
+      }
+    ]
+  }
